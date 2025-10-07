@@ -36,7 +36,7 @@ Each stop on the tour features **unique country theming**, **custom graphics**, 
 
 Each stop features:
 - **Unique country themes** with custom graphics and branding
-- **Regional celebration** during stream coverage
+- **Regional celebration** during stream coverage intermission
 - **Collectible playmats** exclusive to each location
 - **Global leaderboard** tracking champions across all destinations
 
